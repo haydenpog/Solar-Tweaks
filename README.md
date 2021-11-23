@@ -1,6 +1,6 @@
 # Solar Tweaks
 
-Solar Tweaks official software. All open source of course
+Solar Tweaks unofficial software. All open source of course
 
 If you want to build it manually :
 ```bash
